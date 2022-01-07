@@ -1,5 +1,3 @@
-print"checking whitelist.."
-
 local TBLFIND = table.find
 
 local whitelistUserIDs = {}
@@ -10,4 +8,3 @@ game.Players.PlayedAdded:Connect(function(player)
     end
 end)
 
-wait"5"
