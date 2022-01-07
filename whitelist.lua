@@ -2,9 +2,11 @@ local TBLFIND = table.find
 
 local whitelistUserIDs = {}
 
+if TBLFIND = ID then
 game.Players.PlayedAdded:Connect(function(player)
-    if not TBLFIND(whitelistUserIDs,player.UserId) then --If the UserID value is not in the table this returns nil. In Lua nil equals false.
-        game.Players.LocalPlayer:Kick("\nYou've been banned by: RAC\nFor the reason of: No\n999999999999 days remaining until unban")
-    end
-end)
+    if TBLFIND(whitelistUserIDs,player.userID) then return end
+           else
+            game.Players.LocalPlayer:Kick("\nYou've been banned by: RAC\nFor the reason of: No\n999999999999 days remaining until unban")
+        end
+    end)
 
