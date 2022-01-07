@@ -1,0 +1,103 @@
+First Paste (August 24):
+(=)Shit stormy fpsgui looking UI
+
+Found out how to paste:
+(=)First Source Looked into: Lunarsensea
+
+Found out how to change UI:
+(=)Source: Bloxity
+
+First time changing names:
+(+)PeekPeek.cc created
+
+build 1: 
+(+)lunarsense UI
+(+)PeekPeek.cc changed to Vs_v3
+
+built 2: 
+(=)Colors changed to white 
+(+)Mexicanhook paste 
+(+)Vs_v3 changed to VoidClient
+
+built 3: 
+(+)Prediction options (manual added) 
+(+)Colors changed to light blue
+
+built 4: 
+(-)No Luas tab
+(+)script first release to public
+(+)first user: FriedChicken#1597
+(+)changed bullet tracers size and material to flat
+(+)Hexagon kill all
+(+)chat spam
+(+)kill say changed
+(+)minified
+(+)knifeaura
+(+)Hitpart no wallbang icon removed
+
+Vc 1.1: 
+(+)Scrollable UI 
+(+)Fixed crashes 
+(=)moved ping exploit, anti ping and crash server to Exploits section, 
+
+Vc 1.2.1: 
+(+)New bullet tracers 
+(+)Anti crash added
+
+Vc DEV: 
+(-)Anti crash removed (Dev) 
+(=)VC_Dev Shared to public (realising making a paste private is retarded)
+
+Vc 1.3: 
+(=)AutoWall Removed
+
+Vc 1.4: 
+(+)Lunarsense v2 UI
+
+Vc 1.5:
+(+)New Bullet tracers
+
+vC 1.6:
+(+)beta tester: FriedChicken#1597
+(+)Semi-Script manager: FriedChicken#1597
+(+)Script Obfuscated
+
+Vc 1.7:
+(-)Script UnObfuscated 
+(+)Minified
+
+Vc 1.8:
+(+-) Negative Minimum damage removed
+(+)New Bullet tracers (bloxsense.gay old)
+(+)Tracking Viewmodels
+
+Vc 1.9:
+(+)Better Prediction 
+(+)knife speed increased (gun mods)
+
+Vc 1.9.1 (Unreleased):
+(-)Removed Tracking Viewmodels)
+(=)Expectation features works
+(+)Knife changer removed
+
+Vc 2.0 (Major):
+(+)First paste to have: Bloxsense.gay killsay
+(+)new bullet tracers
+(+)bullet tracer color changer
+(+)position correction hits more
+(+)hitsounds updated
+(+)hitbox shitter (exploits)
+(+)anti aim spectate (bs.pub)
+(+)anti fling set as default (gyro)
+
+Vc 2.1:
+(+)Less lag
+(+)Prediction makes you hit even more
+(+)Print on execute
+(+)Anti killall lag
+
+Vc 2.2 (expectations):
+(+)Wallbang modifier
+(+)Bloxsense.gay blank killsay fixed
+(+)Loadstring
+(?)Whitelist
