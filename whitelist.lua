@@ -1,6 +1,6 @@
 local TBLFIND = table.find
 
-local Username = {HelloThereMyKidz}
+local Username = {HelloThereMyKidz,HeroXX002}
 
 if TBLFIND = ID then
 game.Players.PlayedAdded:Connect(function(player)
