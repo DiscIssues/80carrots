@@ -1,0 +1,17 @@
+library.notifyText.Font = 2
+library.notifyText.Size = 7
+library.notifyText.Outline = true
+library.notifyText.Color = Color3.new(1,1,1)
+library.notifyText.Position = Vector2.new(10,60)
+
+library:notify("Loading Functions..")
+wait(5)
+workspace.InterpolationThrottling = Enum.InterpolationThrottlingMode.Disabled
+library:notify("Loading UI..")
+wait(2)
+library:notify("Reading Configs Folder..")
+local cfglocation = "lunarcfg/" 
+wait(2)
+library:notify("Reading game assets..)
+wait(3)
+library:notify("Ready")
