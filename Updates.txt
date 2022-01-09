@@ -101,3 +101,9 @@ Vc 2.2 (expectations):
 (+)Bloxsense.gay blank killsay fixed
 (+)Loadstring
 (?)Whitelist
+
+Vc 2.2 (official release):
+(+)AutoPeek Fixed
+(+)Penetration changer (wallbang modifier)
+(+)Cuteware chat spam
+(+)racist chat spam
