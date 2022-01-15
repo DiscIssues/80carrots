@@ -108,3 +108,12 @@ Vc 2.2 (official release):
 (+)Penetration changer (wallbang modifier)
 (+)Cuteware chat spam
 (+)racist chat spam
+
+Vc 2.3: 
+(+)Hrp fakelag
+(+)Penetration changer back
+(++)Crash fixes
+(-)Bullet tracer replaced as "old"
+(+)Anti-Fling Back
+(+)Visualize silent angles/tracking viewmodels back
+(+)Anti-Fling for cframe
