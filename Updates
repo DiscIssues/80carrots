@@ -121,3 +121,15 @@ Vc 2.3:
 (+)Visualize silent angles/tracking viewmodels back
 (+)Anti-Fling for cframe
 (+)Better kill-all (shippy's is far better btw so dont talk shit)
+
+Vc 2.4:
+(+)Lighter
+(+)Outter tint
+(+)Inner tint
+(+)Killsound
+(+)Hitsounds replaced
+(+)Ping exploit fixed
+(+)Ping limit added
+(+)Arms in 3rd person
+(+)Remove arms in 3rd person
+(=)ui changes (vc.lite only)
