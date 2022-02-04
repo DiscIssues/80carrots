@@ -1,15 +1,46 @@
 Petsovernight.com
 
- --Features
+ -- Features (Stormy&Momentum)
 
 -- Self
--- Better Performance than before
+-- Comfortable UI
+-- Cursor when menu enabled
+-- Config support
+-- Lua support
+-- Smooth Performance
 -- Notify on load
 -- Spectator List
 -- Keybind List
 -- Hitlogs
 
+
+-- Legitbot
+-- Silent aim
+-- Hitchance
+-- Fov
+-- Free for all
+-- Forcefield check
+-- Draw fov (broken)
+-- Triggerbot
+-- Delay (ms)
+-- Aim assist 
+
 -- Ragebot
+-- Autoshoot
+-- Hitpart
+-- Automatic penetration
+-- Delay shot
+-- Force hit
+-- Knifebot
+-- Knifebot radius
+-- Remove Head
+-- Double tap
+-- Auto peek
+-- Quick peek
+-- No animations
+-- Resolver (Pitch, Yaw, Roll, Animation)
+-- Fakelag (Static, Dynamic)
+-- Ping spike
 -- Both prediction type modified
 -- Prediction
 -- Bloxsense.gay resolver
@@ -26,18 +57,57 @@ Petsovernight.com
 -- Extra pitch
 
 -- Visuals
--- Fog effect
+-- Box esp
+-- Health esp
+-- Name esp
+-- Font changer
+-- Gun esp (text, icon)
+-- Dropped guns esp (icon)
+-- Armor indicator
+-- Arm chams (transparency, color)
+-- Accessory chams (Material, Transparency, Color)
+-- Gun chams (Material, Transparency, Color)
+-- ShadowMap technology
+-- World color
+-- Removals (scope, scope lines, shadow, etc.)
+-- Fov changer
+-- On scope (Fov)
+-- Third person
+-- Hitsounds
+-- Hitsound volume
+-- Bullet tracers
+-- Bullet impacts
+-- Hit chams
+-- Viewmodel changer 
+-- Fog effect (color)
 -- Arms in third person (toggle)
 -- Visualize Silent Angles
 -- Time Changer
--- Indoor chams
--- Outdoor chams
+-- Outter chams
+-- Inner chams
 -- Killsound
 -- Old Gun Sounds
 -- More Hitsounds
 -- Remove ESP for krnl (stuck on screen bug)
 
+
 -- Misc
+-- Spectator list toggle
+-- Keybind list toggle
+-- Bunny hop (Cframe, Gyro)
+-- Hrp clip
+-- Edge bug
+-- Edge jump
+-- Jump bug
+-- Killsay
+-- Crosshair changer
+-- Gun modifications
+-- Shop (Everywhere, Infinite time)
+-- Buy any grenades
+-- No chat filter
+-- Animations
+-- Infinite crouch
+-- Infinite money
 -- Invisible
 -- Godmode
 -- Noclip
@@ -58,6 +128,7 @@ Petsovernight.com
 -- Rejoin Button
 -- Fix vote bug
 -- Custom models
+-- Luas tab
 
 
 Updates:
