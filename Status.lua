@@ -23,4 +23,4 @@ function library:notify(text)
         library.notifyText.Visible = false
     end)
 end
-library:notify("CM Status: Down")
+library:notify("Status: Working")
