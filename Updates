@@ -1,5 +1,12 @@
 Petsovernight.com
 
+ -- Features currently being made:
+ -- Separated Sleeve And Glove Transparency 
+ 
+ -- Features currently being fixed:
+ -- Hrp fakelag
+ -- 
+
  -- Features (Stormy&Momentum)
 
 -- Self
@@ -46,7 +53,7 @@ Petsovernight.com
 -- Bloxsense.gay resolver
 -- Anti kill-all lag
 -- 9e9 kill all
--- Cframe HRP
+-- Cframe HRP Fakelag (PATCHED)
 -- HRP Fakelag fixes
 -- Random Anti-aim fixes
 -- Working Slidewalk
@@ -95,6 +102,7 @@ Petsovernight.com
 -- Spectator list toggle
 -- Keybind list toggle
 -- Bunny hop (Cframe, Gyro)
+-- Movement type (Bypass Exploits, Old)
 -- Hrp clip
 -- Edge bug
 -- Edge jump
@@ -321,6 +329,15 @@ CM 2.6.2:
 
 CM 2.6.3:
 (+)Old hrp method back (turns out to be working)
+
+CM 2.6.4:
+(+)Esp stuck on screen fixed
+
+CM 2.7:
+(+)Detect if voidclient already exist
+(+)RickRolls you when you execute voidclient twice
+(+)Copy server link
+(-)HRP Removed
 
 Why not try man's first cousin? 
 At PetsOvernight.com we've got every primate in stock from spider monkeys to gorillas. 
