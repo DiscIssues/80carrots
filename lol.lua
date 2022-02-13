@@ -4,4 +4,4 @@ userids = {
 [USERIDHERE] = true
 }
 return userids
--- These will be our whitelisted users
+
