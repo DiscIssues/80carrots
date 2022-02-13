@@ -1,6 +1,6 @@
 keys = {
 [asdasd123124565464] = true,
-[friedchicken] = true,
-[discnigga] = true
+[KEY HERE] = true,
+[KEY HERE] = true
 }
 return keys
