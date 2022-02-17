@@ -208,7 +208,6 @@ CM 2.7.2:
 (+)Obfuscated script
 
 CM 2.7.3:
-(+)Uglified
 (+)Minified
 (+)Variables Changes
 (+)Whitelists
@@ -219,6 +218,15 @@ CM 2.7.4:
 CM 2.7.5:
 (+)Invalid keys will now kick you
 (-)No longer buys you a free sandwich 
+
+CM 2.8:
+(+)New user: Indo
+(+)Improved anti kill all
+(+)Bhop increased to 450
+(+)Replaced rickroll easter egg to "nice try"
+(+)Voidclients own "Obfuscator"
+(+)Penetration value (Normal, High)
+(+)Prediction value fixes
 
 Why not try man's first cousin? 
 At PetsOvernight.com we've got every primate in stock from spider monkeys to gorillas. 
