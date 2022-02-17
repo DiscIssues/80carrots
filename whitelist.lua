@@ -1,6 +1,1 @@
-local keys = {
-    "0x98c199",
-    "0x97c138",
-    "0x13c189"
-}
-return keys
+print"holy shit real voidclient ckrakc!1331321"
