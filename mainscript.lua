@@ -1,1 +1,1 @@
-print"holy shit real voidclient ckrakc!1331321"
+--HOLY SHIT GUYS VOIDCLIENT LEAK!!!!
