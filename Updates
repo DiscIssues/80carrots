@@ -1,4 +1,5 @@
 Petsovernight.com
+
 First time changing names:
 (+)PeekPeek.cc created
 
@@ -41,13 +42,11 @@ Vc DEV:
 (=)VC_Dev Shared to public (realising making a paste private is retarded)
 
 Vc 1.3: 
-(=)AutoWall Removed
-
-Vc 1.4: 
 (+)Lunarsense v2 UI
 
-Vc 1.5:
+Vc 1.4-1.5:
 (+)New Bullet tracers
+(-)Fixed server crasher
 
 Vc 1.6:
 (+)beta tester: FriedChicken#1597
@@ -67,22 +66,17 @@ Vc 1.8:
 (+)New Bullet tracers (bloxsense.gay old)
 (+)Tracking Viewmodels
 
-Vc 1.9:
-(+)Better Prediction 
-(+)knife speed increased (gun mods)
-
-Vc 1.9.1 (Unreleased):
+Vc 1.9 (Unreleased):
 (-)Removed Tracking Viewmodels)
 (=)Expectation features works
 (+)Knife changer removed
 
-Vc 2.0 (Major):
+Vc 2.0:
 (+)First paste to have: Bloxsense.gay killsay
 (+)new bullet tracers
 (+)bullet tracer color changer
-(+)position correction hits more
+(+)prediction hits more on low ping
 (+)hitsounds updated
-(+)hitbox shitter (exploits)
 (+)anti aim spectate (bs.pub)
 (+)anti fling set as default (gyro)
 
@@ -92,16 +86,7 @@ Vc 2.1:
 (+)Print on execute
 (+)Anti killall lag
 
-Have one delivered! Just log on to Petsovernight.com and we will send you a cute kitten overnight. 
-Petsovernight.com - delivering little bundles of love, in a box, directly to your door.
-
-Vc 2.2 (expectations):
-(+)Wallbang modifier
-(+)Bloxsense.gay blank killsay fixed
-(+)Loadstring
-(?)Whitelist
-
-Vc 2.2 (official release):
+Vc 2.2:
 (+)AutoPeek Fixed
 (+)Penetration changer (wallbang modifier)
 (+)Cuteware chat spam
@@ -117,7 +102,7 @@ Vc 2.3:
 (+)Anti-Fling for cframe
 (+)Better kill-all (shippy's is far better btw so dont talk shit)
 
-Vc 2.4 (lite):
+Vc 2.4:
 (+)Lighter
 (+)Outter tint
 (+)Inner tint
@@ -127,12 +112,9 @@ Vc 2.4 (lite):
 (+)Ping limit added
 (+)Arms in 3rd person
 (+)Remove arms in 3rd person
-(+)Fake Bot (chat spam > effortfull.xyz)
+(+)Fake Bot
 (+)Cframe anti fall
 (=)ui changes (vc.lite only)
-
-Everybody loves a puppy! And now you can ship one anywhere just by logging on to petsovernight.com! 
-Petsovernight.com delivering little bundles of love, in a box, directly to your door.
 
 Vc 2.4.1-2.4.5:
 (-)Outter tint removed
@@ -141,18 +123,13 @@ Vc 2.4.1-2.4.5:
 (+)More bhop values
 (+)HRP Clip
 (+)Dudos hitbox
-(+)Crash server renamed to "panik button"
-
-Would you like a giraffe?
-Have one delivered! Just log on to petsovernight.com, and we'll send you a giraffe overnight. Petsovernight.com
-delivering little bundles of love, in a box, directly to your door.
 
 Vc 2.5:
 (+)Bloxsense.gay resolver
 (+)Extend pitch values
 (+)Fix vote bug
 
-CM 2.6 (Catto.Momentum):
+CM 2.6:
 (+)Cframe hrp fakelag
 (+)Hrp Fakelag fixes
 (+)9e9 kill all
@@ -207,15 +184,10 @@ CM 2.7.5:
 (+)Invalid keys will now kick you
 (-)No longer buys you a free sandwich 
 
-CM 2.7.6:
-(/)Were back being retarded, Paste is private once again
-
 CM 2.8:
-(+)New user: Indo
 (+)Improved anti kill all
 (+)Bhop increased to 450
-(+)Replaced rickroll easter egg to "nice try"
-(+)Penetration value (Normal, High)
+(+)Penetration type
 (+)Prediction value fixes
 
 CM 2.8.1:
@@ -226,10 +198,6 @@ CM 2.8.1:
 (+)Anti kill-all improvement (Now bypasses hexagon)
 (+)Improved accuracy boost
 (+)Randomized prints and no longer does rick rolls
-
-Why not try man's first cousin? 
-At PetsOvernight.com we've got every primate in stock from spider monkeys to gorillas. 
-You'll love your new best friend.
 
 CM 2.8.2:
 (+)Penetration modifier
