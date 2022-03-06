@@ -1,8 +1,5 @@
 Petsovernight.com
 
-First time changing names:
-(+)PeekPeek.cc created
-
 build 1: 
 (+)lunarsense UI
 (+)PeekPeek.cc changed to Vs_v3
@@ -212,3 +209,6 @@ CM 2.9:
 (+)Outdoor ambient
 (+)Re-Positioned buttons, dropdowns, and sliders.
 (+)Wallbang modifier
+
+CM 2.9.1:
+(+)Extended Wallbang modifier
