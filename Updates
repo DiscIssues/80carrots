@@ -212,3 +212,36 @@ CM 2.9:
 
 CM 2.9.1:
 (+)Extended Wallbang modifier
+
+CM 3.0:
+(-)Removed remove esp in screen 
+(-)Removed prediction multiplier
+(-)Removed Indoor ambient
+(-)Removed Outdoor ambient
+(-)Removed accuracy & Amounts
+(-)Removed knife changer
+(+)Better hitlogs
+(+)Better ragebot
+(+)Better AntiAims
+(+)Improved Spectator List
+(+)Improved Keybinds
+(+)Improved Visualize Silent Angles
+(+)Improved ForceHit (Hook Remove Head)
+(+)Improved Bullet-Tracers
+(+)Improved Fakelag Visualize Lags
+(+)Fixed Fakeduck
+(+)Fixed HRP-Fakelag
+(+)Fixed 5-9 fps drops
+(+)Ignore Walls (Knife)
+(+)Rapid & Normal Speed Options (Knife)
+(+)Visualize Silent Angles Speed
+(+)Penetration changer
+(+)Cuteware Chat Spammer Back (+Effortfully.xyz, and Bible Verses)
+(+)More FakeLag Options
+(+)Freezeclip
+(+)New & Old BHOP Types
+(+)Rejoin Server Bug Fix
+(+)FakeLag Indicator
+(+)Hide Sleeves
+(+)Hide Gloves
+(+)Time Changer
