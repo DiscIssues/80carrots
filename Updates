@@ -267,3 +267,8 @@ CM 3.1 [Legacy 2]:
 CM 3.1 [Main 7]:
 (+)Added Freezeclip On Gyro
 (+)Hrp Fakelag Fixes
+
+CM 3.1.1 [Main 7.1]:
+(+)Hrp Fakelag Fixed 
+(+)Lowered Fakelag Limit
+(+)Better Visualize Silent Angles Delay
