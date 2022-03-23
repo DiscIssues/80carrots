@@ -278,3 +278,17 @@ CM 3.2 [Main 7.1.1]:
 (+)Knife Changer Fixed
 (+)Fixed Instant Equip
 (+)Fixed Infinite Buy Time
+
+CM 3.3 [Main 8]:
+(+)Loop kill
+(+)Better Prediction
+(+)FakeFlick (Offset, Delay)
+(+)DefuseC4 (Force Defuse)
+(+)Chams Thickness
+(+)Chams Transparency
+(+)Visible Chams
+(+)Anti Kick
+(+)Auto Join (Team)
+(+)Remove Textures
+(+)Gun Aura (Automatic Fire Type)
+
