@@ -321,3 +321,15 @@ CM 3.7 [Build 9]:
 (+)Improved Adaptive Prediction
 (+)Fixed Prediction Multiplier/Amount
 (+)Visualize Fakelag Types - Ball, Hitbox
+
+CM 3.7.1 [Build 9]:
+(+)Fixed Manual Prediction
+(+)Fixed Ragebot Not Hitting
+(+)Fakelag Now Works On CFrame, And Velocity Bhop.
+(+)Optimization Fixes
+(-)Removed Fakelag Indicator
+
+CM 3.7.1 [Build 9]:
+(+)Improved Optimization
+(+)Improved Alternative Prediction
+(+)Re-Positioned Buttons
