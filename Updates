@@ -1,6 +1,6 @@
 Petsovernight.com
 
-build 1: 
+build 1:  
 (+)lunarsense UI
 (+)PeekPeek.cc changed to Vs_v3
 
@@ -303,7 +303,7 @@ CM 3.5 [Build 8]:
 (+)Hostage Exploit
 (+)Bloxsense.gay killsay (When textbox is empty)
 
-CM 3.6 [Main 9]
+CM 3.6 [Build 9]:
 (+)Ragebot breaker - DDoS Hitboxes
 (+)Custom models
 (+)NNs Dont Talk
@@ -315,3 +315,9 @@ CM 3.6 [Main 9]
 (+)Gyro Freezeclip
 (+)Ball Visualize Lag
 (+)Prediction Amount - Multiplier
+
+CM 3.7 [Build 9]:
+(+)Improved Manual Prediction
+(+)Improved Adaptive Prediction
+(+)Fixed Prediction Multiplier/Amount
+(+)Visualize Fakelag Types - Ball, Hitbox
