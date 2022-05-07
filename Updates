@@ -1,42 +1,34 @@
-Petsovernight.com
-
-build 1:  
-(+)lunarsense UI
+Build 1:  
+(+)Lunarsense UI
 (+)PeekPeek.cc changed to Vs_v3
 
-built 2: 
+Built 2: 
 (=)Colors changed to white 
 (+)Mexicanhook paste 
 (+)Vs_v3 changed to VoidClient
 
-built 3: 
+Built 3: 
 (+)Prediction options (manual added) 
 (+)Colors changed to light blue
 
-built 4: 
+Built 4: 
 (-)No Luas tab
-(+)script first release to public
-(+)first user: FriedChicken#1597
-(+)changed bullet tracers size and material to flat
-(+)Hexagon kill all
-(+)chat spam
-(+)kill say changed
-(+)minified
-(+)knifeaura
-
+(+)Script first release to public
+(+)First user: FriedChicken#1597
+(+)Changed Bullet Tracers
+(+)Hexagon Kill All
+(+)Chat spam
+(+)Kill say changed
+(+)Minified
+(+)Knifeaura
 
 Vc 1.1: 
 (+)Scrollable UI 
 (+)Fixed crashes 
-(=)moved ping exploit, anti ping and crash server to Exploits section, 
 
 Vc 1.2.1: 
 (+)New bullet tracers 
 (+)Anti crash added
-
-Vc DEV: 
-(-)Anti crash removed (Dev) 
-(=)VC_Dev Shared to public (realising making a paste private is retarded)
 
 Vc 1.3: 
 (+)Lunarsense v2 UI
@@ -54,10 +46,6 @@ Vc 1.7:
 (-)Script Unobfuscated 
 (+)Minified
 
-Buying a gift for the guy that has everything? Log on to petsovernight.com. 
-We've got exotic pets galore, including tigers, cobras, manatees, and white rhinos! 
-All delivered overnight. Petsovernight.com delivering little bundles of love, in a box, directly to your door.
-
 Vc 1.8:
 (+-) Negative Minimum damage removed
 (+)New Bullet tracers (bloxsense.gay old)
@@ -69,35 +57,31 @@ Vc 1.9 (Unreleased):
 (+)Knife changer removed
 
 Vc 2.0:
-(+)First paste to have: Bloxsense.gay killsay
-(+)new bullet tracers
-(+)bullet tracer color changer
-(+)prediction hits more on low ping
-(+)hitsounds updated
-(+)anti aim spectate (bs.pub)
-(+)anti fling set as default (gyro)
+(+)Bloxsense.gay killsay
+(+)New bullet tracers
+(+)Bullet tracer color changer
+(+)Prediction hits more on low ping
+(+)Hitsounds updated
+(+)Anti aim spectate (bs.pub)
+(+)Anti fling set as default (gyro)
 
 Vc 2.1:
-(+)Less lag
-(+)Prediction makes you hit even more
+(+)Enchanced Optimization
 (+)Print on execute
-(+)Anti killall lag
+(+)Anti kill all lag
 
 Vc 2.2:
-(+)AutoPeek Fixed
+(+)Auto Peek Fixed
 (+)Penetration changer (wallbang modifier)
 (+)Cuteware chat spam
-(+)racist chat spam
+(+)Racist chat spam
 
 Vc 2.3: 
 (+)Hrp fakelag
 (+)Penetration changer back
-(++)Crash fixes
-(-)Bullet tracer replaced as "old"
+(+)Crash fixes
 (+)Anti-Fling Back
 (+)Visualize silent angles/tracking viewmodels back
-(+)Anti-Fling for cframe
-(+)Better kill-all (shippy's is far better btw so dont talk shit)
 
 Vc 2.4:
 (+)Lighter
@@ -111,7 +95,6 @@ Vc 2.4:
 (+)Remove arms in 3rd person
 (+)Fake Bot
 (+)Cframe anti fall
-(=)ui changes (vc.lite only)
 
 Vc 2.4.1-2.4.5:
 (-)Outter tint removed
@@ -334,22 +317,7 @@ CM 3.7.1 [Build 9]:
 (+)Improved Alternative Prediction
 (+)Re-Positioned Buttons
 
-CM 3.8 [Loader 1]:
-(+)Seperated builds into 4
-
-CM 3.8.1 [Build 10]:
--Main Build
-(-)Nothing Changed
-
--Legacy Build
-(-)Nothing Changed
-
--Enchanced Build
-(+)Anti-Weld Breaker
-(+)Forward Tracking
-(+)Enchanced Alternative Predictions
-
--Beta Build
+CM 3.8 [Build 10]:
 (+)Anti-Weld Breaker
 (+)Forward Tracking
 (+)Enchanced Alternative Predictions
