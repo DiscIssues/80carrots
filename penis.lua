@@ -1,8 +1,8 @@
 BeforeLoad = tick()
 local uwus = {" >-<", " UwU", " >~<", " fag", " :3", " OwO", " :>", " >.<"}
-if getgenv().OwO then
+if getgenv().Ow then
         local urafurry = uwus[math.random(1,table.getn(uwus))]
-     print(urafurry)
+
    return
 end
 getgenv().OwO = true
@@ -50,7 +50,7 @@ library:notify("Loading..") --notify text
 wait()
 game:IsLoaded()
 Wait() 
-print"ready"
+
 local chatmessages_effort = {
     "This AD was exclusively bought to you by | effortfull.xyz |",
     "This is an updated version of my Autofarm. I'll farm credits for my team. | effortfully.xyz |",
