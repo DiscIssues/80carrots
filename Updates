@@ -330,3 +330,14 @@ CM 3.9 [Build 10]:
 (+)Enhanced Knifebot Speed
 (+)Bug Fixes
 (-)Removed Visualize Silent Angles Speed
+
+P__H 4.0 [Build 11]:
+(+)Added Custom Tap Methods
+(+)Added Gun Manipulation
+(+)Added Visualize Silent Angles Speed
+
+P__H 4.1a [Build 11]:
+(+)Added Prediction Based on Ticks
+(+)Enchanced Prediction
+(-)Removed Kill All
+(-)Removed Custom Tap Methods
